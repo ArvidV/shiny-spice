@@ -1,3 +1,3 @@
-hello.world <- function(){
-  message("Hello World")
+goodbye.world <- function(){
+  message("Goodbye Cruel World")
 }
